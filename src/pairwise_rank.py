@@ -14,7 +14,7 @@ from transformers import LlamaTokenizer,AutoTokenizer,AutoProcessor,EncodecModel
 
 encodec_model = EncodecModel.from_pretrained("facebook/encodec_24khz")
 processor = AutoProcessor.from_pretrained("facebook/encodec_24khz")
-access_token = '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'
+access_token = ''
 tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-3.2-1B",token=access_token)
 
 

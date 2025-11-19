@@ -14,7 +14,7 @@ class Model(nn.Module):
     def __init__(self, args, mode=None):
 
         super().__init__()
-        access_token = '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'
+        access_token = ''
         if mode == None:
             mode = args.mode
         updated_tokenizer = "../data/Haptic/pretrain/updated_llama_tokenizer_{}.pt".format(mode)
