@@ -1,0 +1,624 @@
+{
+  "created_at": 1749690487708,
+  "participant_id_digest": "52958baa8c498e8448e3b1b485458bc0",
+  "haptic_signal": {
+    "F521_loop.wav": {
+      "sensory": {
+        "This sensation is a medium lengthed vibration which starts with a note.": 1,
+        "The sensation is like steady rhythmical small pulses that last for a certain.": 2,
+        "It feels like a pulse becoming stroner over time.": 1,
+        "It felt very frictional, it was very resistive.": 6
+      },
+      "emotion": {
+        "This sensation makes me feel steady, like something is happening thats happening all.": 3,
+        "This sensation makes me feel calm and happy.": 1,
+        "This sensation makes me feel peaceful.": 1,
+        "This sensation made me feel like urgent and alarming.": 2
+      },
+      "association": {
+        "This reminds me of a cat's purr.": 1,
+        "This reminds me of a game where you have to finish a certain task.": 1,
+        "Quite a lot of things actually, this was more like a high level.": 1,
+        "One of my old Android phones had this exact same vibration.": 1
+      }
+    },
+    "F291_loop.wav": {
+      "sensory": {
+        "It feels like a steady vibration, it is very smooth and uniform.": 1,
+        "This sensation felt like a phone vibrating in a very weak way.": 3,
+        "The sensation was continuous initially with low intensity and then it slowly.": 1,
+        "The sensation is like steady rhythmical small pulses that last for a certain.": 5
+      },
+      "emotion": {
+        "This sensation made me feel like attentive.": 1,
+        "the sensation makes me feel active.": 3,
+        "It makes me feel calm and focused.": 1,
+        "This sensation makes me feel calm and serene.": 1
+      },
+      "association": {
+        "It reminds me of a bag.": 1,
+        "Quite a lot of things actually, this was more like operating a grass.": 1,
+        "The sensation reminded me of a heartbeat.": 4,
+        "This reminds me of the vibration from a vehicle that is moving too fast.": 1
+      }
+    },
+    "F777_loop.wav": {
+      "sensory": {
+        "The sensation is a constant and smooth vibration.": 1,
+        "This sensation felt a little rough, and the vibrations were somewhat inconsistent.": 3,
+        "This sensation is very rough and feels like sand.": 3,
+        "The sensation was like a music beat.": 1
+      },
+      "emotion": {
+        "This sensation makes me feel neutral.": 1,
+        "This sensation makes me feel peaceful.": 1,
+        "This sensation makes me feel calm and peaceful.": 1,
+        "This sensation makes me feel steady.": 3
+      },
+      "association": {
+        "It reminds me of a lullaby for babies.": 2,
+        "Quite a lot of things actually, this was more like operating a grass.": 1,
+        "One of my old Android phones had this exact same vibration.": 1,
+        "This sensation feels like sand under a person's feet on a beach.": 7
+      }
+    },
+    "F903_loop.wav": {
+      "sensory": {
+        "The sensation is a random beat of vibrations.": 2,
+        "It is soft and slippery.": 6,
+        "This sensation is a r.": 1,
+        "The sensation is like steady rhythmical small pulses that last for a certain.": 6
+      },
+      "emotion": {
+        "This sensation made me feel weird.": 1,
+        "It feels calm and it makes your feel relaxed.": 5,
+        "It makes me feel calm and steady.": 5,
+        "It makes me feel annoyed.": 1
+      },
+      "association": {
+        "It reminds me of the elevator when we try to keep the bike steady.": 1,
+        "This sensation reminds me of my roomate's heartbeat after we try to.": 1,
+        "This reminds me of the time when I was in the mall.": 1,
+        "Quite a lot of things actually, this was more like operating a grass.": 1
+      }
+    },
+    "F572_loop.wav": {
+      "sensory": {
+        "This sensation feels like a machine starting.": 7,
+        "The sensation felt jagged and rough.": 5,
+        "I would describe the sensation to someone else as constant.": 1,
+        "This sensation is a continuous one with a light buzz.": 5
+      },
+      "emotion": {
+        "It makes me feel calm and focused.": 3,
+        "This sensation makes me feel calm and peaceful.": 3,
+        "I feel like something is being exerted, tough or requiring a lot.": 6,
+        "It makes me feel peaceful.": 2
+      },
+      "association": {
+        "It reminds me of the vibrations from a bass tracks.": 7,
+        "Quite a lot of things actually, this was more like operating a grass.": 1,
+        "The sensation reminds me of a bass tracks.": 7,
+        "Quite a lot of things actually, this was more like a r.": 1
+      }
+    },
+    "F326_loop.wav": {
+      "sensory": {
+        "The sensation is like a music beat.": 5,
+        "This sensation is like continous beeps, 2-3 seconds.": 5,
+        "The sensation was like a continuous less intense beats.": 2,
+        "It feels like a long buzz.": 3
+      },
+      "emotion": {
+        "It makes me feel like dancing.": 7,
+        "This sensation makes me feel very peaceful.": 2,
+        "It makes me feel calm and focused.": 2,
+        "This sensation makes me feel anxious.": 5
+      },
+      "association": {
+        "It reminds me of playing a song.": 3,
+        "One of my old Android phones had this exact same vibration.": 7,
+        "Quite a lot of things actually, this was more like operating a grass.": 1,
+        "It reminds me of a bass tracks.": 6
+      }
+    },
+    "F764_loop.wav": {
+      "sensory": {
+        "The sensation starts with higher intensity and then it fades down gradually.": 1,
+        "It felt slippery and slippery.": 5,
+        "The sensation is like long buzz with same intensity.": 3,
+        "This sensation feels like a phone alarm.": 6
+      },
+      "emotion": {
+        "This sensation makes me feel peaceful.": 3,
+        "This sensation made me feel energetic.": 3,
+        "The sensation makes me feel like someone is in a mild hurry.": 1,
+        "It feels a bit weird.": 2
+      },
+      "association": {
+        "It feels like the vibration of the phone alarm in the morning.": 7,
+        "This sensation reminds me of a cat's purr.": 1,
+        "This reminds me of the time I used to play games on my PC.": 2,
+        "This reminds me of something that would also be slippery.": 5
+      }
+    },
+    "F436_loop.wav": {
+      "sensory": {
+        "It feels like a repetitive beat.": 7,
+        "The sensation is gritty and resistive.": 6,
+        "This sensation is very soft.": 1,
+        "This sensation is a good and comforted.": 1
+      },
+      "emotion": {
+        "This sensation makes me feel peaceful and calm.": 1,
+        "It makes me feel annoyed.": 4,
+        "It makes me feel calm and focused.": 2,
+        "The sensation made me feel steady.": 2
+      },
+      "association": {
+        "One of my old Android phones had this exact same vibration.": 2,
+        "Quite a lot of things actually, this was more like a sensation of.": 1,
+        "The sensation reminds me of a phone vibrating.": 2,
+        "Quite a lot of things actually, this was more like a calming sensation.": 1
+      }
+    },
+    "F362_loop.wav": {
+      "sensory": {
+        "The sensation felt like a buzz.": 2,
+        "It is a medium length, roaring vibration with equal intervals.": 1,
+        "The sensation is pointy but soft.": 3,
+        "The sensation felt soft and smooth.": 5
+      },
+      "emotion": {
+        "This sensation makes me feel peaceful.": 5,
+        "This sensation made me feel calm.": 5,
+        "It makes me feel calm and focused.": 5,
+        "This sensation makes me feel uncomfortable and disturbed.": 2
+      },
+      "association": {
+        "Quite a lot of things actually, this was more like operating a grass.": 1,
+        "It reminds me of a panicy sound effect.": 1,
+        "This reminds me of a party DJ.": 1
+      }
+    },
+    "F925_loop.wav": {
+      "sensory": {
+        "The sensation is like intense drops.": 7,
+        "It felt slippery and slippery.": 4,
+        "It is a soft vibration that starts off soft but gets a little rough.": 1,
+        "The sensation was smooth, soothing, and it was continuous.": 2
+      },
+      "emotion": {
+        "This sensation made me feel steady.": 4,
+        "It makes me feel good and calm.": 3,
+        "This sensation makes me feel steady.": 4,
+        "I felt like I am confused.": 1
+      },
+      "association": {
+        "Quite a lot of things actually, this was more like a r.": 1,
+        "The sensation reminds me of a heartbeat after exercise.": 7,
+        "One of my old Android phones had this exact same vibration.": 7,
+        "Quite a lot of things actually, this was more like a rhythm.": 6
+      }
+    },
+    "F586_loop.wav": {
+      "sensory": {
+        "This sensation is a continuous and soft buzz.": 2,
+        "This sensation is very low to medium level.": 3,
+        "It felt like a very fast 2-4 beat.": 4,
+        "This sensation is a low intensity vibration.": 2
+      },
+      "emotion": {
+        "The sensation made me feel thrilling.": 7,
+        "This sensation makes me feel intense.": 7,
+        "It makes me feel calm and focused.": 1,
+        "It feels a bit calm.": 1
+      },
+      "association": {
+        "One of the three rounds of a bell which is rung.": 1,
+        "It reminds me of a time when I was playing with my friends.": 1,
+        "Quite a lot of things actually, this was more like a calming sensation.": 1,
+        "One of my old Android phones had this exact same vibration.": 7
+      }
+    },
+    "F609_loop.wav": {
+      "sensory": {
+        "This sensation is a low continuous vibration.": 4,
+        "This sensation is a good and comforted.": 5,
+        "It felt slippery but also felt soft.": 6,
+        "It feels slippery and slippery.": 6
+      },
+      "emotion": {
+        "This sensation makes me feel calm.": 4,
+        "It makes me feel attentive, dramatical, theatrical, exciting, energetic.": 3,
+        "This sensation makes me feel steady.": 3,
+        "It makes me feel like there is a halt, regular pattern followed immediately.": 2
+      },
+      "association": {
+        "This reminds me of a mixer grinder when it is on hard on the.": 1,
+        "It reminds me of the time I checked my pulse.": 2,
+        "One of my old Android phones had this exact same vibration.": 3,
+        "This reminds me of being on a road where the road is broken<.": 1
+      }
+    },
+    "F692_loop.wav": {
+      "sensory": {
+        "The sensation was discountinous with three vibrations repeating in a pattern.": 1,
+        "It feels like it is a very soft sensation.": 2,
+        "This sensation is like a heartbeat or a pulse.": 4,
+        "The sensation was like a music beat.": 6
+      },
+      "emotion": {
+        "This sensation makes me feel calm and serene.": 3,
+        "This sensation makes me feel calm.": 3,
+        "The sensation makes me feel peaceful.": 3,
+        "It makes me feel like I have to complete sth fast.": 1
+      },
+      "association": {
+        "Quite a lot of things actually, this was more like a panicy.": 5,
+        "Quite a lot of things actually, this was more like a high level.": 4,
+        "This reminds me of a massage tool.": 1,
+        "Quite a lot of things actually, this was more like operating a grass.": 1
+      }
+    },
+    "F709_loop.wav": {
+      "sensory": {
+        "It felt like a steady vibration.": 1,
+        "The sensation is somewhat prickly.": 5,
+        "The sensation was a mixture of burst and pulse.": 4,
+        "This sensation is a continuous one, it is a bit smooth.": 1
+      },
+      "emotion": {
+        "It makes me feel peaceful.": 1,
+        "This sensation made me feel uncomfortable and disturbed.": 7,
+        "It makes me feel calm and content.": 1,
+        "This sensation makes me feel weird and dirty.": 6
+      },
+      "association": {
+        "This reminded me of the sensation of a bad earthquake.": 6,
+        "One of the I have a the feeling of the time I brushed through.": 1,
+        "Quite a lot of things actually, this was more like a massage chair.": 4,
+        "It reminds me of the sound of a cricket.": 4
+      }
+    },
+    "F605_loop.wav": {
+      "sensory": {
+        "This sensation is a medium lengthed vibration which starts with a high frequency.": 1,
+        "It is a sensation that is slippery.": 6,
+        "The sensation is like steady rhythmical small pulses that last for a certain.": 1,
+        "It felt slippery and slippery.": 6
+      },
+      "emotion": {
+        "The sensation made me feel calm.": 5,
+        "It made me feel annoyed.": 2,
+        "It makes me feel annoyed.": 2,
+        "This sensation made me feel steady.": 2
+      },
+      "association": {
+        "This reminds me of the time when we tried to start something but we.": 1,
+        "This sensation reminds me of a heartbeat.": 1,
+        "It reminds me of the physcial sensation of keeping my h.": 1,
+        "One of my old Android phones had this exact same vibration.": 6
+      }
+    },
+    "F373_loop.wav": {
+      "sensory": {
+        "This sensation is kind of slow.": 6,
+        "the sensation is sharp and continuous.": 6,
+        "The sensation is soft and smooth.": 1,
+        "This sensation is a continuous pulse but with a little delays.": 5
+      },
+      "emotion": {
+        "This sensation made me feel uncomfortable and disturbed.": 4,
+        "This sensation makes me feel peaceful.": 2,
+        "This sensation made me feel steady.": 6,
+        "This sensation makes me feel calm and serene.": 2
+      },
+      "association": {
+        "The sensation reminds me of rubbing wood over a piece of wood decor<.": 7,
+        "One of my old Android phones had this exact same vibration.": 7,
+        "It feels like a phone vibrating.": 6,
+        "Quite a lot of things actually, this was more like a sensation of.": 1
+      }
+    },
+    "F967_loop.wav": {
+      "sensory": {
+        "This sensation is quite soft and steady.": 4,
+        "This sensation is soft and slow.": 3,
+        "This sensation is a calming.": 2,
+        "The sensation is like a constant vibration with a pause between the second one.": 3
+      },
+      "emotion": {
+        "This sensation makes me feel weird and dirty.": 2,
+        "This sensation made me feel peaceful and calm.": 4,
+        "This sensation makes me feel calm and serene it kind of way.": 4,
+        "This sensation makes me feel peaceful.": 4
+      },
+      "association": {
+        "It feels like a weak short wave kind of sensation.": 6,
+        "This reminds me of a massage tool.": 1,
+        "This sensation reminds me of the time I used to play games on my.": 1,
+        "It reminds me of the time when I was playing with my friends.": 1
+      }
+    },
+    "F323_loop.wav": {
+      "sensory": {
+        "It feels like a soft vibration in a low pitch.": 1,
+        "The sensation is steady, rhythmical, and quite soothing.": 6,
+        "This sensation feels like very feeble and some rough vibrations.": 5,
+        "This sensation is a sharp but not a continous one, but the.": 1
+      },
+      "emotion": {
+        "It makes me feel calm and focused.": 2,
+        "This sensation makes me feel weird and dirty.": 4,
+        "This sensation makes me feel calm and happy.": 5,
+        "This sensation makes me feel like I am in a war zona game where.": 1
+      },
+      "association": {
+        "It reminds me of my alarm.": 6,
+        "The sensation reminded me of a fire alarm.": 1,
+        "Quite a lot of things actually, this was more like operating a grass.": 1
+      }
+    },
+    "F623_loop.wav": {
+      "sensory": {
+        "The sensation is a continuous vibration.": 7,
+        "This sensation is a high frequency vibration of medium length followed immediately by two.": 1,
+        "It is very soft and smooth.": 7,
+        "This sensation is a constant vibration.": 7
+      },
+      "emotion": {
+        "This sensation made me feel weird and dirty.": 1,
+        "This sensation made me feel calm and quite.": 7,
+        "It makes me feel like I have to complete sth fast.": 1,
+        "It feels calm and it feels nice on the hand.": 7
+      },
+      "association": {
+        "The sensation reminds me of a heartbeat.": 4,
+        "The sensation reminds me of the bell at the Temple.": 1,
+        "This reminds me of the time I was in the mall.": 1,
+        "Quite a lot of things actually, this was more like operating a grass.": 1
+      }
+    },
+    "F624_loop.wav": {
+      "sensory": {
+        "This sensation is kind of ECG like, energetic.": 3,
+        "The sensation was random consisting of long vibrations.": 1,
+        "It feels like something is nudging against you in a forest.": 7,
+        "The sensation is a random beat of light and vibrations.": 1
+      },
+      "emotion": {
+        "It made me feel neutral.": 3,
+        "It makes me feel calm and focused.": 3,
+        "It makes me feel a bit irritated.": 7,
+        "This sensation makes me feel peaceful.": 2
+      },
+      "association": {
+        "Quite a lot of things actually, this was more like a panicy.": 5,
+        "This reminds me of a massage tool.": 1,
+        "It reminds me of the physcial sensation of keeping my h.": 1,
+        "Quite a lot of things actually, this was more like a repetitive pattern.": 1
+      }
+    },
+    "F394_loop.wav": {
+      "sensory": {
+        "This sensation is a low intensity continuous vibration.": 7,
+        "The sensation is like a low intense vibration.": 7,
+        "This sensation feels like the musical note of a medium length note note of.": 1,
+        "I would describe the sensation to someone else as inconsistent.": 1
+      },
+      "emotion": {
+        "This sensation makes me feel steady and calm.": 5,
+        "I think I am hearing the music.": 1,
+        "The sensation made me feel calm.": 2,
+        "This sensation makes me feel anxious and worried.": 6
+      },
+      "association": {
+        "Quite a lot of things actually, this was more like a little passive.": 1,
+        "This reminds me of when we try hard to complete an task.": 1,
+        "One of my old Android phones had this exact same vibration.": 2,
+        "Quite a lot of things actually, this was more like a massage,.": 1
+      }
+    },
+    "F633_loop.wav": {
+      "sensory": {
+        "This sensation is similar to a car starting up but with no car starting.": 7,
+        "The sensation is uneven and lumpy.": 6,
+        "This sensation was exactly like, when we are out of gas in car.": 1,
+        "It felt slippery and slippery in slippery.": 4
+      },
+      "emotion": {
+        "It makes me feel alarmed and anxious.": 4,
+        "It makes me feel steady.": 5,
+        "This sensation made me feel weird.": 4,
+        "It makes me feel good and calm.": 3
+      },
+      "association": {
+        "This sensation reminds me of my electric toothbrush.": 5,
+        "This reminds me of the time when we tried to run the machine<.": 7,
+        "It reminds me of my phone vibration while carrying in my hands.": 5,
+        "Quite a lot of things actually, this was more like operating a grass.": 1
+      }
+    },
+    "F921_loop.wav": {
+      "sensory": {
+        "The sensation was a continuous pulse.": 1,
+        "This sensation is like a stable 3 vibrations where the second vibration is.": 1,
+        "This sensation felt like a steady vibration.": 1,
+        "This sensation is quite smooth but the vibrations are steady and slow.": 3
+      },
+      "emotion": {
+        "This sensation made me feel calm.": 5,
+        "It makes me feel like there is a halt, can expect moving at.": 1,
+        "It makes me feel annoyed.": 1,
+        "This sensation makes me feel calm and serene.": 5
+      },
+      "association": {
+        "One of my old Android phones had this exact same vibration.": 1,
+        "Quite a lot of things actually, this was more like a r.": 1,
+        "Quite a lot of things actually, this was more like a high level.": 1,
+        "It reminds me of the sound of a cars.": 3
+      }
+    },
+    "F526_loop.wav": {
+      "sensory": {
+        "This sensation is a continuous pulse.": 7,
+        "This sensation is a slippery slippery slippery slippery slippery slippery slippery slippery slippery slippery.": 1,
+        "This sensation starts with a slightly bigger vibration.": 2,
+        "the sensation is very slippery and slippery.": 1
+      },
+      "emotion": {
+        "This sensation made me feel weird.": 4,
+        "This sensation makes me feel thrilling.": 4,
+        "The sensation makes me feel thrilling.": 4,
+        "This sensation makes me feel calm and relaxing.": 4
+      },
+      "association": {
+        "Quite a lot of things actually, this was more like operating a grass.": 1,
+        "It feels like the last event of something that is happening suddenly.": 1,
+        "It reminds me of my phone vibrating in my pocket.": 6,
+        "It reminds me of the vibrations we get from a bike when we try.": 7
+      }
+    },
+    "F425_loop.wav": {
+      "sensory": {
+        "The sensation feels slippery and slippery.": 5,
+        "This sensation felt soft and passive.": 3,
+        "This sensation is a medium intensity vibration which has a stronger vibration at the.": 1,
+        "This sensation feels like the vibrations from a speaker.": 3
+      },
+      "emotion": {
+        "This sensation makes me feel steady.": 2,
+        "This sensation felt weird and dirty.": 6,
+        "This sensation makes me feel calm and focused.": 2,
+        "The sensation makes me feel attentive.": 3
+      },
+      "association": {
+        "Quite a lot of things actually, this was more like operating a grass.": 1,
+        "It reminds me of the physcial sensation of keeping my h.": 1,
+        "This reminds me of a vehicle moving smoothly.": 6,
+        "This reminds me of the time when I was in the hospital getting an.": 1
+      }
+    },
+    "1228.wav": {
+      "sensory": {
+        "It is very strong.": 1,
+        "The sensation is hard.": 1,
+        "It is strong and fast.": 1,
+        "It feels fast.": 7
+      },
+      "emotion": {
+        "It makes me feel excited.": 4,
+        "It feels very intense.": 4,
+        "It makes me feel energetic and excited.": 4,
+        "It makes me feel active and energetic.": 4
+      },
+      "association": {
+        "It remindes me of drums.": 1,
+        "It reminds me of a heartbeat.": 1,
+        "It reminds me of musical beats.": 1,
+        "The sensation reminded me of the heartbeat of a pet.": 1
+      }
+    },
+    "F738_loop.wav": {
+      "sensory": {
+        "The sensation was smooth, soothing, and it was continuous.": 1,
+        "This sensation is a low continuous vibration.": 2,
+        "It feels like Periodic vibration with a high frequency.": 1,
+        "This sensation is a bit rough and the vibrations are very sporadic.": 7
+      },
+      "emotion": {
+        "This sensation made me feel calm and quiet.": 1,
+        "It makes me feel peaceful.": 1,
+        "This sensation makes me feel peaceful.": 1,
+        "This sensation makes me feel steady.": 4
+      },
+      "association": {
+        "The sensation reminds me of a phone vibrating in a bag.": 3,
+        "Quite a lot of things actually, this was more like a sensation of.": 1,
+        "This reminds me of a heartbeat when you are excited.": 1,
+        "The sensation reminds me of a party DJ.": 2
+      }
+    },
+    "F780_loop.wav": {
+      "sensory": {
+        "The sensation is calm but cannot go unnoticed.": 2,
+        "It felt slippery and slippery.": 4,
+        "The sensation is quite and steady.": 3,
+        "It feels like a pulse becoming stroner over time.": 1
+      },
+      "emotion": {
+        "This sensation makes me feel good.": 4,
+        "This sensation makes me feel anxious.": 5,
+        "It makes me feel calm and focused.": 3,
+        "It makes me feel like I am missing something or longing.": 1
+      },
+      "association": {
+        "One of my old Android phones had this exact same vibration.": 7,
+        "This reminds me of the time when we tried to start the bike but.": 1,
+        "It feels like a machine.": 7,
+        "This sensation reminds me of my electric toothbrush.": 7
+      }
+    },
+    "F867_loop.wav": {
+      "sensory": {
+        "This sensation is a constant vibration.": 4,
+        "The sensation is like light heartbeat.": 1,
+        "It felt slippery and slippery.": 6,
+        "This sensation felt slippery but hard to predict.": 7
+      },
+      "emotion": {
+        "The sensation made me feel weird.": 1,
+        "This sensation makes me feel calm.": 3,
+        "It makes me feel calm and focused.": 3,
+        "This sensation makes me feel dirty and dirty and dirty.": 1
+      },
+      "association": {
+        "The sensation reminded me of a time when I was able to rev the.": 1,
+        "Quite a lot of things actually, this was more like operating a grass.": 1,
+        "It feels like a vehicle.": 3,
+        "This sensation reminds me of a blender when it is turned on.": 7
+      }
+    },
+    "F854_loop.wav": {
+      "sensory": {
+        "The sensation is like steady rhythmical small pulses that last for a certain.": 5,
+        "This sensation is like a long continuous vibration.": 7,
+        "This sensation is a high frequency vibration of medium length followed immediately by two.": 1,
+        "The sensation is like light heartbeat.": 1
+      },
+      "emotion": {
+        "This sensation makes me feel weird.": 2,
+        "The sensation makes me feel calm and relaxing.": 2,
+        "It makes me feel calm and peaceful.": 2,
+        "This sensation makes me feel calm.": 2
+      },
+      "association": {
+        "One of my old Android phones had this exact same vibration.": 1,
+        "Quite a lot of things actually, this was more like a feel than.": 1,
+        "This reminds me of the feeling of driving over gravel.": 6,
+        "Quite a lot of things actually, this was more like operating a grass.": 1
+      }
+    },
+    "F284_loop.wav": {
+      "sensory": {
+        "Sensation feels like when your h.": 1,
+        "The sensation was a continuous rhythm with a low but also a comforting beat.": 7,
+        "The sensation felt calm and relaxing.": 6,
+        "This sensation felt slippery but also rough.": 5
+      },
+      "emotion": {
+        "The sensation makes me feel passive.": 4,
+        "I felt a subtle call to take action.": 5,
+        "This sensation makes me feel peaceful.": 5,
+        "It makes me feel peaceful.": 5
+      },
+      "association": {
+        "It reminds me of the vibrations we feel from a bike where we try.": 1,
+        "Quite a lot of things actually, when I'm very hungry, I.": 1,
+        "It feels like something is ringing.": 7,
+        "It feels like something is losing.": 4
+      }
+    }
+  }
+}
