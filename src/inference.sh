@@ -12,7 +12,7 @@
 # mail alert at start, end and abortion of execution
 #SBATCH --mail-type=ALL
 # send mail to this address
-#SBATCH --mail-user=guhu@di.ku.dk
+#SBATCH --mail-user
 #Skipping many options! see man sbatch
 # From here on, we can start our program
 . /etc/profile.d/modules.sh
