@@ -204,7 +204,7 @@ print(caption)
 ---
 
 ## 🚀 Citation
-If you find this dataset useful for your research, please cite our paper:
+If you find this work (e.g., model or code) useful for your research, please cite our paper:
 
 ```bibtex
 @article{hu2025hapticllama,
