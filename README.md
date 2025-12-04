@@ -5,7 +5,7 @@ Arxiv: https://arxiv.org/pdf/2508.06475?
 ---
 
 ## 📖 Introduction
-**HapticLLaMA** is a multimodal sensory language model that interprets vibration signals into descriptions in a given sensory, emotional, or associative category**. 
+**HapticLLaMA** is a multimodal sensory language model that interprets vibration signals into descriptions in a given sensory, emotional, or associative category. 
 HapticLLaMA is trained in two stages: (1) supervised fine-tuning using the LLaMA architecture with LoRA-based adaptation, and (2) fine-tuning via reinforcement
 learning from human feedback (RLHF). 
 
@@ -186,8 +186,11 @@ Inference for one sample
 
 ```python
 haptic_signal = r'./F211_loop.wav'
-prompt = 'its sensory description is'
-input_ids, input_atts, prompt_ids, prompt_atts = tokenizer_haptic(haptic_signal, prompt, mode='encodec')
+sensory_prompt = 'its sensory description is'
+##for emotional and associative
+##emotional_prompt = 'its emotional description is'
+##associative_prompt = 'its associative description is'
+input_ids, input_atts, prompt_ids, prompt_atts = tokenizer_haptic(haptic_signal, sensory_prompt, mode='encodec')
 hapticllama = load_model(stage=1, device='cuda', mode='encodec', model_file_url=encodec_model_file_url)
 caption = hapticllama.generate(inputs = prompt_ids,input_atts=prompt_atts)
 print(caption)
