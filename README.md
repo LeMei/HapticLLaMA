@@ -43,6 +43,8 @@ HapticLLaMA training is consist of (1) supervised fine-tuning with LoRA adaptati
 Frequency-based Tokenizer divides the frequency range into logarithmically spaced bins that correspond to just-noticeable ifferences in human frequency perception. Similarly, the amplitude range is segmented into normalized levels. The tokenizer then assigns a unique
 token (e.g., FREQ_3_AMP_2) to each frequencyamplitude pair, encoding the signal’s spectral content into a form interpretable by LLMs.
 ```python
+import librosa
+
 def steps_binning(frequencies, amplitudes, freq_bins=10, amp_levels=5):
 
     freq_min, freq_max = np.min(frequencies), np.max(frequencies)
@@ -126,6 +128,10 @@ Given a haptic signal, we prompt HapticLLaMA to generate captions from sensory, 
 
 
 ```python
+import torch
+from torch import nn
+import librosa
+
 #load model--HapticLLaMA
 def load_model(stage, device, mode, model_file_url):
         if os.path.exists(model_file_url):
