@@ -187,6 +187,8 @@ def tokenizer_haptic(haptic, prompt, mode):
       encodec_haptic_tokens = [' '.join(encodec_haptic_tokens)]
       encodec_input_ids, encodec_input_atts, encodec_prompt_ids, prompt_atts = formalize_input(encodec_haptic_tokens, encodec_tokenizer, prompt=prompt)
       return encodec_input_ids, encodec_input_atts, encodec_prompt_ids, prompt_atts
+    else:
+      print('invalid tokenizer...')
 
 ```
 Inference for one sample
