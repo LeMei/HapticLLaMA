@@ -23,6 +23,7 @@ HapticLLaMA training is consist of (1) supervised fine-tuning with LoRA adaptati
 
 
 - ## 📂 Models
+  Also can be found in https://huggingface.co/GuiminHu/HapticLLaMA
 - **Frequency-based Model**:
 
   https://drive.google.com/file/d/1qF5KEcjNHdQ2AUlwr1mZzW1EHl-rHfqh/view?usp=sharing
