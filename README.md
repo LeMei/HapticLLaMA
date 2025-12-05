@@ -123,7 +123,7 @@ def encodec_token(wav_file):
 
 ## 📂 Inference
 
-Given a haptic signal, we prompt HapticLLaMA to generate captions from sensory, emotional, and associative perspectives.
+Given a haptic signal, we can prompt HapticLLaMA to generate captions from sensory, emotional, and associative perspectives respectively.
 
 <img width="448" height="329" alt="image" src="https://github.com/user-attachments/assets/2ea17083-5da3-47f2-9781-7f17912d08cc" />
 
