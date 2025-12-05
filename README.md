@@ -194,6 +194,7 @@ Inference for one sample
 ```python
 haptic_signal = r'./F211_loop.wav'
 sensory_prompt = 'its sensory description is'
+encodec_model_file_url = r'./encodec_hapticllama.pt'
 ##for emotional and associative
 ##emotional_prompt = 'its emotional description is'
 ##associative_prompt = 'its associative description is'
