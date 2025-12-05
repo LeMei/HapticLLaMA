@@ -24,11 +24,11 @@ HapticLLaMA training is consist of (1) supervised fine-tuning with LoRA adaptati
 
 - ## 📂 Models
   Also can be found in https://huggingface.co/GuiminHu/HapticLLaMA
-- **Frequency-based Model**:
+- **Frequency-based Model** (frequency_llama.pt):
 
   https://drive.google.com/file/d/1qF5KEcjNHdQ2AUlwr1mZzW1EHl-rHfqh/view?usp=sharing
   
-- **Encodec-based Model**:
+- **Encodec-based Model** (encodec_llama.pt):
 
   https://drive.google.com/file/d/1RMC6mgNHPDm_m6emHNTElNS8k6EHwiJ5/view?usp=sharing
 
