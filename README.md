@@ -77,20 +77,20 @@ def steps_binning(frequencies, amplitudes, freq_bins=10, amp_levels=5):
         tokens.append(f"{freq_token}_{amp_token}")
     return tokens
 
-    ### start load .wav file and tokenize
-    y, sr = librosa.load(wav_file, sr=None)  
+  ### start load .wav file and tokenize
+  y, sr = librosa.load(wav_file, sr=None)  
 
-    D = librosa.stft(y, n_fft=n_fft, hop_length=hop_length)  
-    frequencies = librosa.fft_frequencies(sr=sr, n_fft=n_fft)  
-    magnitudes = np.abs(D)  
-    magnitudes = magnitudes / np.max(magnitudes)  
-    frame_idx = 10  
-    amplitudes = magnitudes[:, frame_idx]  
-    mask = frequencies < 500
-    frequencies_filtered = frequencies[mask]
-    amplitudes_filtered = amplitudes[mask]
-    ###haptic tokens based on Frequency-base haptic tokenizer
-    tokens = steps_binning(frequencies_filtered, amplitudes_filtered, freq_bins=freq_bins,amp_levels=amp_levels)
+  D = librosa.stft(y, n_fft=n_fft, hop_length=hop_length)  
+  frequencies = librosa.fft_frequencies(sr=sr, n_fft=n_fft)  
+  magnitudes = np.abs(D)  
+  magnitudes = magnitudes / np.max(magnitudes)  
+  frame_idx = 10  
+  amplitudes = magnitudes[:, frame_idx]  
+  mask = frequencies < 500
+  frequencies_filtered = frequencies[mask]
+  amplitudes_filtered = amplitudes[mask]
+  ###haptic tokens based on Frequency-base haptic tokenizer
+  tokens = steps_binning(frequencies_filtered, amplitudes_filtered, freq_bins=freq_bins,amp_levels=amp_levels)
 
 ```
   
