@@ -36,6 +36,9 @@ HapticLLaMA training is consist of (1) supervised fine-tuning with LoRA adaptati
 
   https://drive.google.com/drive/folders/1Fd4FWbjqjje8pk2rZvRnrl1qwuXUcM46?usp=sharing
 
+- **VibRate**
+  https://drive.google.com/drive/folders/1rxAOkuZAZ_BNAHwzggWTBpXVrA0UwJz1?usp=sharing
+
 ## 📂 Haptic Tokenizer
 - **Frequency-based Tokenizer**:
   
