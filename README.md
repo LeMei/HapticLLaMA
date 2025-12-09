@@ -157,7 +157,7 @@ def load_model(stage, device, mode, model_file_url):
 
 ###load pretrained haptic tokenizer
 
-frequency_tokenizer = AutoTokenizer.from_pretrained(r"./updated_llama_tokenizer_steps_binning.pt/")
+frequency_tokenizer = AutoTokenizer.from_pretrained(r"./updated_llama_tokenizer_frequency.pt/")
 encodec_tokenizer = AutoTokenizer.from_pretrained(r"./updated_llama_tokenizer_encodec.pt/")
 
 #formalize input for inference
