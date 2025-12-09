@@ -108,6 +108,7 @@ main components: (1) an encoder that transforms raw audio into a lower-dimension
   
 ```python
 from transformers import AutoTokenizer,AutoProcessor,EncodecModel
+from datasets import Dataset, Audio
 
 encodec_model = EncodecModel.from_pretrained("facebook/encodec_24khz")
 processor = AutoProcessor.from_pretrained("facebook/encodec_24khz")
