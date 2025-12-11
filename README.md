@@ -85,19 +85,21 @@ def steps_binning(frequencies, amplitudes, freq_bins=10, amp_levels=5):
     return tokens
 
   ### start load .wav file and tokenize
-  y, sr = librosa.load(wav_file, sr=None)  
-
-  D = librosa.stft(y, n_fft=n_fft, hop_length=hop_length)  
-  frequencies = librosa.fft_frequencies(sr=sr, n_fft=n_fft)  
-  magnitudes = np.abs(D)  
-  magnitudes = magnitudes / np.max(magnitudes)  
-  frame_idx = 10  
-  amplitudes = magnitudes[:, frame_idx]  
-  mask = frequencies < 500
-  frequencies_filtered = frequencies[mask]
-  amplitudes_filtered = amplitudes[mask]
-  ###haptic tokens based on Frequency-base haptic tokenizer
-  tokens = steps_binning(frequencies_filtered, amplitudes_filtered, freq_bins=freq_bins,amp_levels=amp_levels)
+  def frequency_token(wav_file):
+    y, sr = librosa.load(wav_file, sr=None)  
+  
+    D = librosa.stft(y, n_fft=n_fft, hop_length=hop_length)  
+    frequencies = librosa.fft_frequencies(sr=sr, n_fft=n_fft)  
+    magnitudes = np.abs(D)  
+    magnitudes = magnitudes / np.max(magnitudes)  
+    frame_idx = 10  
+    amplitudes = magnitudes[:, frame_idx]  
+    mask = frequencies < 500
+    frequencies_filtered = frequencies[mask]
+    amplitudes_filtered = amplitudes[mask]
+    ###haptic tokens based on Frequency-base haptic tokenizer
+    tokens = steps_binning(frequencies_filtered, amplitudes_filtered, freq_bins=freq_bins,amp_levels=amp_levels)
+    return tokens
 
 ```
   
@@ -185,13 +187,13 @@ def tokenizer_haptic(haptic, prompt, mode):
 
     ###Frequency-based token formalization
     if mode == 'frequency':
-      freq_haptic_tokens = frequency_tokenizer(haptic, mode='frequency)
+      freq_haptic_tokens = frequency_token(haptic)
       freq_haptic_tokens = [' '.join(freq_haptic_tokens)]
       freq_input_ids,freq_input_atts, freq_prompt_ids, freq_prompt_atts = formalize_input(freq_haptic_tokens, frequency_tokenizer, prompt=prompt)
       return freq_input_ids, freq_input_atts, freq_prompt_ids, freq_prompt_atts
     elif mode == 'encodec':
       ###Encodec-based token formalization
-      encodec_haptic_tokens = encodec_token(haptic, mode='encodec')
+      encodec_haptic_tokens = encodec_token(haptic)
       encodec_haptic_tokens = [' '.join(encodec_haptic_tokens)]
       encodec_input_ids, encodec_input_atts, encodec_prompt_ids, prompt_atts = formalize_input(encodec_haptic_tokens, encodec_tokenizer, prompt=prompt)
       return encodec_input_ids, encodec_input_atts, encodec_prompt_ids, prompt_atts
