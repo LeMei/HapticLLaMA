@@ -23,7 +23,7 @@ HapticLLaMA training is consist of (1) supervised fine-tuning with LoRA adaptati
 
 
 - ## 📂 Models
-  Also can be found in https://huggingface.co/GuiminHu/HapticLLaMA
+  Also can be found in huggingface: https://huggingface.co/GuiminHu/HapticLLaMA
 - **Frequency-based Model** (frequency_llama.pt):
 
   https://drive.google.com/file/d/1qF5KEcjNHdQ2AUlwr1mZzW1EHl-rHfqh/view?usp=sharing
@@ -41,7 +41,7 @@ HapticLLaMA training is consist of (1) supervised fine-tuning with LoRA adaptati
 - ## 📂 VibRate
   https://drive.google.com/drive/folders/1rxAOkuZAZ_BNAHwzggWTBpXVrA0UwJz1?usp=sharing
 
-  or can be found in: https://huggingface.co/datasets/GuiminHu/VibRate
+  or can be found in huggingface: https://huggingface.co/datasets/GuiminHu/VibRate
 
 ## 📂 Haptic Tokenizer
 - **Frequency-based Tokenizer**:
