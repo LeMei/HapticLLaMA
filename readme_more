@@ -1,6 +1,21 @@
 
+Json files:
+
 signal_map_5.1.json: A dictionary mapping each signal ID to its corresponding caption.
 group_category_5.1.json: A dictionary mapping each signal User ID to the given corresponding caption.
-
 ground_data.json: The label dictionary for evaluation.
+
+
+Source codes:
+./src
+
+train model: ./run.sh
+inference model: ./inference.sh
+
+Human Rating:
+
+./ratings
+
+
+
 
